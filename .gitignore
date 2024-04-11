@@ -1,5 +1,6 @@
 .env
 secrets.conf
+K-ShakeTune_results
 *.swp
 *.tmp
 printer-[0-9]*_[0-9]*.cfg
